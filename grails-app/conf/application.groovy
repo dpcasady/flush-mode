@@ -1,0 +1,1 @@
+hibernate.flush.mode = "always"
